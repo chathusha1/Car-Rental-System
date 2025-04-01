@@ -23,3 +23,7 @@ This repository contains a Java-based Car Rental Management System, built using 
 
     Java
     Object-Oriented Programming (OOP)    
+📌 Author
+
+    R.M. Chathusha Dinuranga – BSc (Hons) IT Student at SLIIT
+    
